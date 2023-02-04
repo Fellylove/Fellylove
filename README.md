@@ -1,6 +1,6 @@
 
 
-![Untitled presentation (8)](https://user-images.githubusercontent.com/72816797/132631133-6ba27c0b-90fc-4399-a160-d005c501768f.jpg)
+
 
 Vision: Revolutionize medicine through AI technology
 

@@ -12,5 +12,3 @@ I have the proven ability to stay on a mission while enriching my perspective on
  3+ years of working on machine learning and Data Science  and Bioinformatics projects
 7+ years of commitment to health and fitness
 4+ years of biotechnology research that resulted in the development of 10+ diagnostic assays.
-
-contact: https://www.linkedin.com/in/sylviaf-burris/

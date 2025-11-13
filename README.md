@@ -1,14 +1,6 @@
+Hi, I’m Sylvia Burris — a bioinformatician, data scientist, and product-builder obsessed with translating biology into tools that actually help people.Like many scientists, I’m fascinated by how cells behave, adapt, and age. But where others stop at analysis, I go a step further—I turn biological insights into practical, usable products, especially by identifying clinical signatures that can scale to real populations.My work sits at the intersection of aging, cancer biology, and computational analytics. I’ve built pipelines, uncovered patterns hidden in noisy data, and crafted visual stories that make complex biology intuitive. What I’m known for is my ability to bridge biology, computation, and product thinking—turning data into clarity, and clarity into solutions.
 
+My mission is simple:To uncover clinically meaningful biological signals and transform them into tools, models, and frameworks that improve decision-making, early detection, and ultimately, patient outcomes.
 
+Right now, I’m building products, exploring population-level biology, and developing data-driven methods that make precision health more accessible. I love creating, experimenting, and converting cellular insights into something real—something that works.
 
-
-Vision: Revolutionize medicine through AI technology
-
-Mission: To develop technologies that make a difference in people's lives.
-
-I am committed to creating health insights and developing machine learning algorithms and technologies that monitor, diagnose and predict disease.   And aim to empower individuals to take action towards better health and healthcare professionals to administer regimens and care that promote optimal health. 
-
-I have the proven ability to stay on a mission while enriching my perspective on the drivers of health through an array of experiences.
- 3+ years of working on machine learning and Data Science  and Bioinformatics projects
-7+ years of commitment to health and fitness
-4+ years of biotechnology research that resulted in the development of 10+ diagnostic assays.
